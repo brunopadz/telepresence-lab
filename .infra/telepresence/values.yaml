@@ -1,0 +1,7 @@
+managerRbac:
+  create: true
+  namespaced: true
+  namespaces:
+    - telepresence
+    - node-app
+    - go-app
